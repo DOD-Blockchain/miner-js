@@ -1,0 +1,11 @@
+{
+  "name": "dod_runner_wasm",
+  "version": "0.1.0",
+  "files": [
+    "dod_runner_wasm_bg.wasm",
+    "dod_runner_wasm.js",
+    "dod_runner_wasm.d.ts"
+  ],
+  "main": "dod_runner_wasm.js",
+  "types": "dod_runner_wasm.d.ts"
+}
